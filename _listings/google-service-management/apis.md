@@ -26,7 +26,7 @@ apis:
   tags: Configuration
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/configuration/master/_listings/google-service-management/v1-services-servicename-configs-configid-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/configuration/master/_listings/google-service-management/v1-services-servicename-configs-submit-post.md
 x-common:
 - type: x-change-log
   url: https://cloud.google.com/service-management/release-notes
