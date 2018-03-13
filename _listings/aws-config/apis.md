@@ -34,7 +34,7 @@ apis:
   tags: Configuration
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/configuration/master/_listings/aws-config/action-putconfigurationrecorder-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/configuration/master/_listings/aws-config/action-startconfigurationrecorder-get.md
 x-common:
 - type: x-command-line-interface
   url: http://docs.aws.amazon.com/cli/latest/reference/configservice/index.html
