@@ -26,7 +26,7 @@ apis:
   tags: Configuration
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/configuration/master/_listings/gmail/userid-settings-sendas-sendasemail-smimeinfo-id-delete.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/configuration/master/_listings/gmail/userid-settings-sendas-sendasemail-smimeinfo-id-get.md
 x-common:
 - type: x-auth-scopes
   url: https://developers.google.com/gmail/api/auth/scopes
