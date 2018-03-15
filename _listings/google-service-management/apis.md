@@ -11,8 +11,8 @@ tags:
 - Management
 - Google APIs
 - Deployment
-created: "2018-03-13"
-modified: "2018-03-13"
+created: "2018-03-15"
+modified: "2018-03-15"
 url: https://raw.githubusercontent.com/streamdata-gallery/configuration/master/_listings/google-service-management/apis.yaml
 specificationVersion: "0.14"
 apis:
@@ -26,7 +26,7 @@ apis:
   tags: Configuration
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/configuration/master/_listings/google-service-management/v1-services-servicename-rollouts-rolloutid-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/configuration/master/_listings/google-service-management/v1-services-servicename-config-get.md
 x-common:
 - type: x-change-log
   url: https://cloud.google.com/service-management/release-notes
