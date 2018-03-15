@@ -12,8 +12,8 @@ tags:
 - Productivity
 - Google APIs
 - Email
-created: "2018-03-13"
-modified: "2018-03-13"
+created: "2018-03-15"
+modified: "2018-03-15"
 url: https://raw.githubusercontent.com/streamdata-gallery/configuration/master/_listings/gmail/apis.yaml
 specificationVersion: "0.14"
 apis:
@@ -26,7 +26,7 @@ apis:
   tags: Configuration
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/configuration/master/_listings/gmail/userid-settings-sendas-sendasemail-smimeinfo-id-setdefault-post.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/configuration/master/_listings/gmail/userid-settings-sendas-sendasemail-smimeinfo-get.md
 x-common:
 - type: x-auth-scopes
   url: https://developers.google.com/gmail/api/auth/scopes
