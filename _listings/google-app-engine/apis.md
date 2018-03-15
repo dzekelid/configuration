@@ -14,8 +14,8 @@ tags:
 - Deployment
 - Compute
 - Cloud
-created: "2018-03-13"
-modified: "2018-03-13"
+created: "2018-03-15"
+modified: "2018-03-15"
 url: https://raw.githubusercontent.com/streamdata-gallery/configuration/master/_listings/google-app-engine/apis.yaml
 specificationVersion: "0.14"
 apis:
@@ -28,7 +28,7 @@ apis:
   tags: Configuration
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/configuration/master/_listings/google-app-engine/v1-apps-appsid-services-servicesid-patch.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/configuration/master/_listings/google-app-engine/v1-apps-appsid-services-servicesid-get.md
 x-common:
 - type: x-code-page
   url: https://cloud.google.com/appengine/docs/admin-api/client-libraries
